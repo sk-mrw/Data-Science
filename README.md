@@ -1,8 +1,8 @@
-# Data Science Practice
+### Data Science Assignments
 
 - Basic Python
 - Basic stats1
 - Basic stats2
 - EDA1
-- MLR
-  
+- Hypothesis Testing
+- Multi Linear Regression
