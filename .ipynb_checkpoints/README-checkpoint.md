@@ -13,4 +13,6 @@
 - KNN
 - Decision Tree
 - Random Forest
+- NLP and Naive Bayes
+- Association Rule
   
