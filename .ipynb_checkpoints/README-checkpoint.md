@@ -15,4 +15,9 @@
 - Random Forest
 - NLP and Naive Bayes
 - Association Rule
+- Recommendation_Systems 
+- SVM 
+- XGBM & LGBM 
+- Neural Networks 
+- Timeseries 
   
